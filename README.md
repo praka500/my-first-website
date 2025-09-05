@@ -1,0 +1,1 @@
+My First Website This repository contains my very first website project. Here, I am learning the basics of HTML, CSS, and web development. The project includes simple web pages, practice code, and experiments as I start my journey as a web developer.
